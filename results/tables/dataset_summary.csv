@@ -1,0 +1,12 @@
+Item,Value
+CSV files,63
+Rows in original dataset,45019243
+Rows sampled,450190
+Rows after de-duplication,365304
+Rows used,300000
+Number of features,39
+NORMAL rows,8526
+ATTACK rows,291474
+Distinct traffic labels,34
+Training rows,240000
+Test rows (unseen),60000

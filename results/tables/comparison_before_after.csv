@@ -1,0 +1,5 @@
+Model,Features_Full,Features_Reduced,Accuracy_Full,Accuracy_Reduced,Accuracy_Change,Precision_Full,Precision_Reduced,Precision_Change,Recall_Full,Recall_Reduced,Recall_Change,F1_Full,F1_Reduced,F1_Change,Train_Time_s_Full,Train_Time_s_Reduced,Inference_us_Full,Inference_us_Reduced,Model_Size_MB_Full,Model_Size_MB_Reduced,Train_Speedup_x,Inference_Speedup_x
+Decision Tree,39,5,0.98705,0.98067,-0.00638,0.99267,0.98966,-0.00301,0.99401,0.99045,-0.00356,0.99334,0.99005,-0.00329,0.883,0.264,0.11255,0.09804,0.104,0.144,3.34,1.15
+Random Forest,39,5,0.98972,0.98283,-0.00689,0.99472,0.99144,-0.00328,0.9947,0.99089,-0.00381,0.99471,0.99116,-0.00355,6.099,4.731,1.89931,2.53431,9.324,12.117,1.29,0.75
+Hist Gradient Boosting,39,5,0.98333,0.9737,-0.00963,0.99974,0.99988,0.00014,0.9831,0.97305,-0.01005,0.99135,0.98628,-0.00507,3.296,2.161,2.72061,2.02686,0.117,0.099,1.53,1.34
+Logistic Regression,39,5,0.97087,0.96725,-0.00362,0.99998,1.0,2e-05,0.97003,0.96629,-0.00374,0.98478,0.98286,-0.00192,2.694,0.487,0.49038,0.09501,0.003,0.001,5.53,5.16

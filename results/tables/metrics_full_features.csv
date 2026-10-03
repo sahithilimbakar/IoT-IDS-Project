@@ -1,0 +1,5 @@
+Model,N_Features,Accuracy,Precision,Recall,F1,ROC_AUC,False_Alarm_Rate,Train_Time_s,Inference_us_per_sample,Model_Size_MB
+Decision Tree,39,0.98705,0.99267,0.99401,0.99334,0.87151,0.25103,0.883,0.11255,0.104
+Random Forest,39,0.98972,0.99472,0.9947,0.99471,0.99659,0.18065,6.099,1.89931,9.324
+Hist Gradient Boosting,39,0.98333,0.99974,0.9831,0.99135,0.99719,0.0088,3.296,2.72061,0.117
+Logistic Regression,39,0.97087,0.99998,0.97003,0.98478,0.99326,0.00059,2.694,0.49038,0.003
